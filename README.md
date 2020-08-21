@@ -99,9 +99,7 @@
 - Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
 - Código fuente: https://goo.gl/GRaOQg
 
-# EXTRA
 
-- https://cognitiveclass.ai/courses
 
 
 
