@@ -20,7 +20,7 @@
 
 # VIDEO CLASES
 
-- 21/08/2020: Presentación
+- Video 001: https://youtu.be/SNlDPxqjI2Y
 
 
 
