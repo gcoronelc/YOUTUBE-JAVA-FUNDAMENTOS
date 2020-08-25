@@ -18,12 +18,6 @@
 - Facebook 3: https://www.facebook.com/groups/bolsa.sistemas/
 
 
-# VIDEO CLASES
-
-- Video 001: https://youtu.be/SNlDPxqjI2Y
-
-
-
 # YUTUBE
 
 - JAVA OO: https://bit.ly/2FCowSU
