@@ -54,6 +54,13 @@
 
 - Enlace: https://github.com/gcoronelc/UDEMY
 
+## FUNDAMENTOS DE PROGRAMACIÓN CON JAVA
+
+- Enlace: https://www.udemy.com/course/fund-java/?referralCode=59EF4456EC0F433C641E
+
+[![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/fp_java.png)](https://youtu.be/1mcdHGywMvk "FUNDAMENTOS DE PROGRAMACIÓN CON JAVA")
+
+
 ## ORACLE PL/SQL
 
 - Enlace: https://www.udemy.com/course/lenguaje-plsql/?referralCode=3B8A67CA0AADFCFB930C
